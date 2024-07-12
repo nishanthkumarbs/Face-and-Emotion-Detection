@@ -23,10 +23,10 @@ This project uses OpenCV and FER (Facial Expression Recognition) to detect faces
     ```
 ## Usage
 Run the following command to start the face and emotion detection:
-    ```
-    python app.py
+```
+python app.py
 
-    ```
+```
 
 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

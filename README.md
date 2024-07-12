@@ -14,20 +14,17 @@ This project uses OpenCV and FER (Facial Expression Recognition) to detect faces
    ```
    git clone https://github.com/nishanthkumarbs/Face-and-Emotion-Detection.git
    cd Face-and-Emotion-Detection
-
     ```
 2. **Install the required packages:**
     ```
     pip install opencv-python-headless fer
-
     ```
 ## Usage
 Run the following command to start the face and emotion detection:
 ```
 python app.py
-
 ```
 
-License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
